@@ -10,7 +10,7 @@ Check out the complete YouTube tutorial for this project:
 
 [![TO DO App Tutorial](https://i.ytimg.com/vi/mMgr47QBZWA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC79tNxHJaLlHMxdUm9nB8alIUeUA)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=mMgr47QBZWA&ab_channel=MitchKoko))
 
-[Click here to watch the tutorial](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+😁[Click here to watch the tutorial](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 📝 MVC Architecture
 
